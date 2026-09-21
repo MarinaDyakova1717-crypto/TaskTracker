@@ -1,1 +1,11 @@
 *.tmp
+
+
+# Build results
+bin/
+obj/
+# Logs
+*.log
+# Local files
+notes_local.txt
+temp/
